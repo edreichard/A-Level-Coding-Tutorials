@@ -1,1 +1,8 @@
+# Week 1 Starter Code
 
+# Task 1: Greet the user
+name = input("What is your name? ")
+print("Hello, " + name + "!")
+
+# Task 2: Simple calculator
+# TODO: Ask for two numbers and print their sum
